@@ -32,7 +32,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - **Clothing** dominated purchases for both groups, followed by **Accessories** and **Footwear**.  
 
 **_Visualization:_**  
-![Revenue by Gender](images/revenue_by_gender.png)
+![Revenue by Gender](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/revenue_distribution.png)
 
 ---
 
@@ -41,7 +41,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - These products show consistent customer satisfaction and can be prioritized in marketing and cross-selling campaigns.  
 
 **_Visualization:_**  
-![Top Rated Products](images/top_rated_products.png)
+![Top Rated Products](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/Top%20rated%20products.png)
 
 ---
 
@@ -51,7 +51,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - Customers with **>5 purchases** were significantly more likely to subscribe.  
 
 **_Visualization:_**  
-![Subscription Comparison](images/subscribers_vs_non_subscribers.png)
+![Subscription Comparison](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/Subs_status.png)
 
 ---
 
@@ -62,7 +62,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - The majority fall under the “Returning” segment — showing potential to convert them into loyal, long-term buyers through rewards programs.
 
 **_Visualization:_**  
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/cust_segmentation.png)
 
 ---
 
@@ -72,7 +72,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - Suggests need to evaluate discount frequency and profit margins.  
 
 **_Visualization:_**  
-![Discount Dependent Products](images/discount_dependency.png)
+![Discount Dependent Products](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/Disct_dependent.png)
 
 ---
 
@@ -82,7 +82,7 @@ The objective was to identify key insights into **spending patterns**, **custome
 - Potential segment for premium service upselling.  
 
 **_Visualization:_**  
-![Shipping Comparison](images/shipping_type_comparison.png)
+![Shipping Comparison](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/shippingtype_comparision.png)
 
 ---
 
@@ -91,10 +91,15 @@ The objective was to identify key insights into **spending patterns**, **custome
 - Younger customers show potential for growth with proper marketing incentives.  
 
 **_Visualization:_**  
-![Revenue by Age Group](images/revenue_by_age.png)
+![Revenue by Age Group](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/revenue_agegroup.png)
 
 ---
 
+### Dashboard 
+- Visualization of insights on a Power BI dashboard for Data understanding of stake-holders.
+  **_Visualization:_**  
+![Revenue by Age Group](https://github.com/Prayag1-tecj/Sales-Trend-and-Customer-Behavior-Analysis/blob/840d117d5000d27e03a30ec54452ba03b9b78142/Dashboard.png)
+---
 ## 💼 Strategic Recommendations
 
 1. **Boost Subscriptions**  
@@ -144,8 +149,5 @@ The objective was to identify key insights into **spending patterns**, **custome
 This analysis delivers a comprehensive understanding of how customer demographics, product preferences, and shopping patterns influence overall business performance.  
 By focusing on **subscriptions, loyalty programs, and targeted promotions**, the business can drive sustainable growth while enhancing customer retention and satisfaction.
 
----
 
-### 📎 Visualization Gallery
-*(Add your chart images here for GitHub viewers)*  
 
