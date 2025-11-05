@@ -26,8 +26,8 @@ The objective was to identify key insights into **spending patterns**, **custome
 ## 📈 Major Insights and Findings
 
 ### 🧍‍♂️ Revenue by Gender
-- **Male customers** generated ~68% of total revenue (~$157K).  
-- **Female customers** contributed ~32% (~$75K).  
+- **Male customers** generated ~ 68% of total revenue (~$157K).  
+- **Female customers** contributed ~ 32% (~$75K).  
 - Both genders had nearly equal **average spending per purchase (~$60)**.  
 - **Clothing** dominated purchases for both groups, followed by **Accessories** and **Footwear**.  
 
